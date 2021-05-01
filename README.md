@@ -14,7 +14,7 @@ Features:
 2. After installing, run <code>npm install</code>.
 3. Run <code>npx react-native run-android</code> to run the application in developer mode.
 
-#Screenshots
-![Loading Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/LoadingScreen.jpg?raw=true)
-![Main Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/MainScreen.jpg?raw=true)
-![Search Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/SearchScreen.jpg?raw=true)
+# Screenshots
+![Loading Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/LoadingScreen.jpg?raw=true){:height="50%" width="50%"}
+![Main Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/MainScreen.jpg?raw=true){:height="50%" width="50%"}
+![Search Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/SearchScreen.jpg?raw=true){:height="50%" width="50%"}
