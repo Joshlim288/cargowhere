@@ -15,4 +15,4 @@ Features:
 3. Run <code>npx react-native run-android</code> to run the application in developer mode.
 
 # Screenshots
-<img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/LoadingScreen.jpg?raw=true" width="290">      <img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/MainScreen.jpg?raw=true" width="290">      <img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/SearchScreen.jpg?raw=true" width="291">
+<img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/LoadingScreen.jpg?raw=true" width="250">      <img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/MainScreen.jpg?raw=true" width="250">      <img src="https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/SearchScreen.jpg?raw=true" width="251">
