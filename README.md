@@ -13,3 +13,8 @@ Features:
 1. This project requires the [React Native environment](https://reactnative.dev/docs/environment-setup).
 2. After installing, run <code>npm install</code>.
 3. Run <code>npx react-native run-android</code> to run the application in developer mode.
+
+#Screenshots
+![Loading Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/LoadingScreen.jpg?raw=true)
+![Main Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/MainScreen.jpg?raw=true)
+![Search Screen](https://github.com/Joshlim288/cargowhere/blob/master/Screenshots/SearchScreen.jpg?raw=true)
